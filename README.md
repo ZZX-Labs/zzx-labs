@@ -135,11 +135,11 @@ See [LICENSE](LICENSE) for details.
 ## GitHub Statistics
 
 <div align="center">
-![ZZX-Labs's GitHub stats](https://github-readme-stats-zzx-labs.vercel.app/api?username=ZZX-Labs&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
-![ZZX-Labs's GitHub stats](https://github-readme-stats-zzx-labs.vercel.app/api?username=ZZX-Labs\&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&theme=chartreuse-dark)
+![ZZX-Labs R&D GitHub Stats](https://github-readme-stats-zzx-labs.vercel.app/api?username=ZZX-Labs&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZX-Labs&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats-zzx-labs.vercel.app/api/top-langs/?username=ZZX-Labs&layout=compact&langs_count=8&theme=chartreuse-dark)
+
 </div>
 
 
