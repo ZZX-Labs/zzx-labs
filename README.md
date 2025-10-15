@@ -21,6 +21,40 @@
 
 ---
 
+## Areas of Knowledge
+
+<div align="center">
+
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"/>
+
+</div>
+
+<p align="center">
+<b>Core Focus:</b> Bitcoin Engineering · Cybersecurity · AI & ML · Embedded Systems · Open-Source Intelligence · Network Defense · Cryptography · Nginx Server Architecture · Linux Systems
+</p>
+
+
+---
+
 ## Overview
 
 **ZZX-Labs R&D** is a private research and development laboratory dedicated to the creation of **software, hardware, artificial intelligence, and cybersecurity technologies** founded upon **Bitcoin-native infrastructure and open-source engineering ethics**.  
