@@ -18,7 +18,6 @@
 [![Framework](https://img.shields.io/badge/API-Flask-black.svg)]()
 </div>
 
-
 ---
 
 ## Areas of Knowledge
@@ -52,7 +51,6 @@
 <b>Core Focus:</b> Bitcoin Engineering · Cybersecurity · AI & ML · Embedded Systems · Open-Source Intelligence · Network Defense · Cryptography · Nginx Server Architecture · Linux Systems
 </p>
 
-
 ---
 
 ## Overview
@@ -60,7 +58,6 @@
 **ZZX-Labs R&D** is a private research and development laboratory dedicated to the creation of **software, hardware, artificial intelligence, and cybersecurity technologies** founded upon **Bitcoin-native infrastructure and open-source engineering ethics**.  
 
 The laboratory’s work spans computational intelligence, network defense, cryptographic architecture, and decentralized systems—each initiative grounded in the philosophy that **sovereign computation and open access to knowledge** are indispensable to a free civilization.
-
 
 ---
 
@@ -79,10 +76,11 @@ ZZX-Labs R&D approaches every system as both an engineering and philosophical en
 - Privacy Infrastructure and Applied Cryptography  
 - Creative Technology, Audio Research, and Visual Systems  
 
-
 ---
 
-## Principal Projects
+## Software Projects
+
+> Each repository under **ZZX-Labs R&D** is a research vector in pursuit of verifiable, Bitcoin-aligned autonomy.
 
 | Project | Description | Language | Version |
 |----------|--------------|-----------|----------|
@@ -251,8 +249,78 @@ ZZX-Labs R&D approaches every system as both an engineering and philosophical en
 | **ZZX-SBS** | Site Builder System—generate unified project/portfolio/docs/downloads/papers pages from one manifest. | Python | TBD |
 | **VLC_BOX** | Stand-alone open-source hardware media player. | C++ / Python / Raspberry Pi | 0.1.0-alpha |
 
-Each repository under **ZZX-Labs R&D** is a research vector in pursuit of verifiable, Bitcoin-aligned autonomy.
+---
 
+## Web Projects (Scaffold)
+
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| _TBD_ | _Add items as they graduate from prototypes_ | _HTML/CSS/JS/Flask/nginx_ | _TBD_ |
+
+---
+
+## Hardware Projects (Scaffold)
+
+| Project | Description | Platform | Status |
+|--------|-------------|----------|--------|
+| **VLC_BOX** | Stand-alone open-source hardware media player | Raspberry Pi / C++ / Python | 0.1.0-alpha |
+| _TBD_ | _Additional SBC/embedded builds_ | _Raspberry Pi / ESP32 / M5Stack_ | _TBD_ |
+
+---
+
+## Firmware (Scaffold)
+
+| Project | Target | Language | Status |
+|--------|--------|----------|--------|
+| _TBD_ | _MCUs / custom SBCs_ | _C / C++ / MicroPython_ | _TBD_ |
+
+---
+
+## Bitcoin (Scaffold)
+
+| Project | Description | Language | Status |
+|--------|-------------|----------|--------|
+| **bitavg** | Weighted-fair-value calculator | Python | 0.1.0-alpha |
+| **Bit-Tick** | Global BTC ticker (250ms weighted updates) | Flask / JS / CSS | 0.2.0-alpha |
+| **BitAge / BitFig / BitRNG / etc.** | _See Software Projects_ | Various | Mixed |
+| _TBD_ | _Additional LN/Bitcoin Core integrations_ | _Python / C++_ | _TBD_ |
+
+---
+
+## AI / ML (Scaffold)
+
+| Project | Description | Framework | Status |
+|--------|-------------|-----------|--------|
+| **AIPDABE / ZIRA / Berossus / AudioSieve** | _See Software Projects_ | PyTorch / TF | Mixed |
+| _TBD_ | _Model distillation / evals / security_ | _PyTorch / ONNX_ | _TBD_ |
+
+---
+
+## OSINT (Scaffold)
+
+| Project | Description | Language | Status |
+|--------|-------------|----------|--------|
+| **BlackBook / CDRC / CourtListener-AC** | _Encrypted notes, court record tooling_ | Python | Mixed |
+| _TBD_ | _Feeds, enrichment, link analysis_ | _Python_ | _TBD_ |
+
+---
+
+## Cyber Investigation (Scaffold)
+
+| Project | Description | Language | Status |
+|--------|-------------|----------|--------|
+| **Parallel Explorer / Hasher** | File forensics & hashing | Python | Mixed |
+| _TBD_ | _Attribution, chain analytics_ | _Python / SQL_ | _TBD_ |
+
+---
+
+## Cyber Security & Cyber Warfare (Scaffold)
+
+| Project | Description | Language | Status |
+|--------|-------------|----------|--------|
+| **T4NP Suite (RedPanda, AmurTiger, ManchurianTiger, PersianLeopard)** | Jurisdiction-encoded source-protection | Python / Build tools | TBD |
+| **Magneta / MalIPLib / BlekRAT** | Data sanitization, IP intel, internal RAT | Python / Bash | Mixed |
+| _TBD_ | _Blue/Red/Purple team simulators_ | _Python / C / C++_ | _TBD_ |
 
 ---
 
@@ -267,7 +335,6 @@ Each repository under **ZZX-Labs R&D** is a research vector in pursuit of verifi
 - **Networking:** OpenVPN (ProtonVPN) · Tor · Proxychains · Zero-Trust Routing  
 - **Payments:** Bitcoin / Lightning Network via BTCPay Server  
 
-
 ---
 
 ## Research & Documentation
@@ -277,7 +344,6 @@ White papers, technical notes, and internal manuals are released under **MIT** o
 Repository: [`/docs`](./docs)  
 Website: [https://zzx-labs.io](https://zzx-labs.io)
 
-
 ---
 
 ## Philosophy
@@ -286,7 +352,6 @@ Website: [https://zzx-labs.io](https://zzx-labs.io)
 
 ZZX-Labs R&D maintains that technology must serve liberty.  
 Our methodology unites theoretical rigor with field utility, producing architectures resilient to coercion, surveillance, and obsolescence.
-
 
 ---
 
@@ -301,14 +366,12 @@ Contributors must:
 
 Pull requests are reviewed for structural integrity, code clarity, and cryptographic soundness.
 
-
 ---
 
 ## License
 
 All repositories and derivative works under **ZZX-Labs R&D** are governed by the **MIT License**.  
 See [LICENSE](LICENSE) for details.
-
 
 ---
 
@@ -317,7 +380,6 @@ See [LICENSE](LICENSE) for details.
 **Bitcoin Address:** `3Qqeu8p8TC38g5eUp9SL8Ke71WGqE2AyrH`  
 **Website:** [https://zzx-labs.io](https://zzx-labs.io)  
 **Email:** contact@zzx-labs.io  
-
 
 ---
 
@@ -331,7 +393,6 @@ See [LICENSE](LICENSE) for details.
 
 </div>
 
-
 ---
 
 <div align="center">
@@ -340,4 +401,3 @@ See [LICENSE](LICENSE) for details.
 Coded in Python · Powered by Bitcoin
 
 </div>
-
