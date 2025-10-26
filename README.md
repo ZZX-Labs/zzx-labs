@@ -86,15 +86,170 @@ ZZX-Labs R&D approaches every system as both an engineering and philosophical en
 
 | Project | Description | Language | Version |
 |----------|--------------|-----------|----------|
-| **bitavg** | Global Bitcoin weighted-fair-value calculator | Python | 0.1.0-alpha |
-| **cryptainer** | Encrypted Bitcoin vaults with animated Glyph Key Sprites (GKS) | Python / PyQt5 | 0.2.0-alpha |
-| **audiosieve** | Automated audio tagging and classification suite | Python | 0.1.0-alpha |
-| **metatagdb** | Universal metadata database for multimedia and AI research | Python / SQL / JSON | 0.3.0-alpha |
-| **woise** | Noise generator and effects engine with filters and MIDI control | Python / PyQt5 | 0.1.0-alpha |
-| **AIPDABE** | Bitcoin-chain intelligent assistant framework | Python / Flask | 0.2.0-alpha |
-| **ZIRA** | Adaptive GPT-based administrative intelligence assistant | Python / Flask | 0.3.0-alpha |
-| **bit-tick** | Global BTC ticker with quarter-second weighted updates | Flask / JS / CSS | 0.2.0-alpha |
-| **VLC_BOX** | Stand-alone open-source hardware media player | C++ / Python / Raspberry Pi | 0.1.0-alpha |
+| **4⁴** | Guided respiration timer (US Navy SEAL 4-4-4-4 box breathing) with visual/haptic cues. | Python / PyQt5 | TBD |
+| **4DV** | Temporal-visual modeling for 4D simulations; overlay/layering for “4D Video.” | Python / PyQt5 | TBD |
+| **AIPDABE** | NLP/GPT assistant for Bitcoin blockchain data exploration; policy-aware, reproducible analyses. | Python / Flask | 0.2.0-alpha |
+| **AlexBerossusGPT** | Research assistant model variants; prompt libraries and supervised workflows. | Python | TBD |
+| **Archive Tagger** | Media metatagging for audio & video; filename cleanup + standardized metadata. | Python | TBD |
+| **Astral Clock** | Solar/lunar ephemeris clock—sunrise/sunset, blue/golden hour, seasonal phases. | Python / PyQt5 | TBD |
+| **AudioLab** | Modular audio lab: resample, normalize, stem split, tag, batch convert, analyze—local-first. | Python / FFmpeg | TBD |
+| **Audio Tagger** | Audio fingerprinting & metatagging for large libraries; integrates with GardenHarvester. | Python | TBD |
+| **AudioSieve** | PyQt5 workstation to scan, tag, classify, denoise libraries; FFmpeg/Mutagen/VLC/DSP integration. | Python / PyQt5 | 0.1.0-alpha |
+| **beef's Diceware Wordlists** | Signed 7,776-word Diceware lists for secure offline passphrases. | Text / Python tools | TBD |
+| **beef's RNGs** | RNG suite in Bash, C/C++, Python with test vectors, bias checks, entropy audits. | Bash / C / C++ / Python | TBD |
+| **Berossus** | Corpus-building and retrieval pipelines for domain-specific LLMs; indexing, embeddings, evals. | Python | TBD |
+| **BerossusVoiceAI** | Voice TTS/STT stack: diarization, alignment, multi-voice synthesis with prompt control. | Python | TBD |
+| **BHOPAL Calc** | Cannabinoid content calculator GUI for potency, ratios, dosing. | Python / PyQt5 | TBD |
+| **BitAge** | Measurement & visualization of Bitcoin block-time intervals; Esplora & Core RPC backends. | Python / PyQt5 | TBD |
+| **bitavg** | Global Bitcoin weighted-fair-value calculator. | Python | 0.1.0-alpha |
+| **BitBurn** | Effective-value estimator for BTC given lost/inaccessible coin ranges. | Python | TBD |
+| **BitFig** | Bitcoin Core/Knots configuration designer; generate/validate/deploy `bitcoin.conf`. | Python / Web | TBD |
+| **BitRNG** | Bitcoin data–based entropy seed source feeding multiple RNGs. | Python | TBD |
+| **BitTrackIt** | Operational tracker for BTC/LN tasks, wallets, batch jobs with signed audit events. | Python | TBD |
+| **Bit-Clock** | Bitcoin time & block-height clock—halving countdowns, epoch stats, subsidy/emission viz. | Python / JS | TBD |
+| **Bit-Monitor** | Lightweight Bitcoin/LN monitor: node health, mempool, fee bands, uptime alerts. | Python | TBD |
+| **Bit-Tracker** | Address/UTXO/transaction tracker with labeling, notes, exportable audit trails. | Python | TBD |
+| **Bitcoin-Mined** | Real-time Bitcoin circulation tracker & emission estimator (on-chain data). | Python / PyQt5 | TBD |
+| **Bit-Tick** | Global BTC ticker with quarter-second weighted updates. | Flask / JS / CSS | 0.2.0-alpha |
+| **Bitcoin-Tully** | Core/Knots wallet-finding & forensic backup tools (Windows 10, cmder). | Bash / Python | TBD |
+| **BitContract** | Smart-contract templates (timelocks, multisig, DLCs) with generators and tests. | Python | TBD |
+| **BitEscrow** | Multisig escrow flows with arbitration, milestone releases, and dispute evidence packs. | Python | TBD |
+| **BitLegal** | Legal-contracts platform linking plain-language terms to enforceable on-chain actions. | Python / Web | TBD |
+| **BitContractor** | Contract authoring studio combining legal and on-chain clauses; signing + versioning. | Python / PyQt5 / Web | TBD |
+| **BitBetting** | Provably-fair BTC betting primitives with on-chain proofs and LN settlement. | Python | TBD |
+| **BitCasino** | BTC-native casino engine with provable fairness, bankroll risk controls, plugin games. | Python / Web | TBD |
+| **BitGaming** | BTC-first game mechanics, provable odds, payout rails for indie titles. | Python / JS | TBD |
+| **BitJack** | Bitcoin blackjack with LN buy-in, provably-fair dealing, low-latency rounds. | Python / Web | TBD |
+| **BitBroker** | Programmable BTC order-router & market microstructure research toolkit. | Python | TBD |
+| **BlackBat** | Trading algorithms (BATS/ATSP) for long-term BTC accumulation with risk controls. | Python | TBD |
+| **BlackBook** | Secure research notebook with encrypted sources, citations, OSINT collections. | Python / PyQt5 | TBD |
+| **BlekRAT** | Private remote-administration toolkit for lab orchestration and testbeds (internal). | Python | TBD |
+| **CalSched** | Calendar & scheduler with alert desktop GUI; CLI runnable. | Python / Tkinter | TBD |
+| **Cannadex** | Cannabis strain viewer & marketplace data index; CLI/GUI/headless modes. | Python | TBD |
+| **Cannapedia** | Wiki-like site for genetics, terpenes, cultivation notes, verified lab results. | Python / Static | TBD |
+| **CDRC** | Court DocRec Collector—bulk downloader/indexer for court docs with normalized metadata. | Python | TBD |
+| **CEES-Chirp** | Secure dual-channel data via cricket chirp acoustics; 4096 species as entropy symbols. | Python / DSP | TBD |
+| **Character Generator** | Promptable character builder; JSON bios and art hooks. | Python | TBD |
+| **Character RNG** | Advanced character/portrait system with Stable Diffusion integration. | Python | TBD |
+| **CourtListener-AC** | Fetch, catalog, tag CourtListener oral-argument audio with transcripts. | Python | TBD |
+| **Cryptainer** | Encrypted Bitcoin vaults with GPG identity, timelocks, policy manifests, auditable IO; animated GKS. | Python / PyQt5 | 0.2.0-alpha |
+| **CyberChefKit** | Unified, offline CyberChef suite for airgapped/embedded workflows; optional local server. | Multi-lang | TBD |
+| **CyberChefC** | CyberChef core reimplemented in C for embedded/airgapped toolchains. | C | TBD |
+| **CyberChefCPP** | C++ port of CyberChef primitives with CLI/library interfaces. | C++ | TBD |
+| **CyberChefPY** | Python module + CLI for CyberChef-like transforms. | Python | TBD |
+| **CyberChefGO** | Selected CyberChef ops in Go for servers/single-binary tooling. | Go | TBD |
+| **CyberChefRUST** | High-performance CyberChef primitives as a Rust crate with WASM targets. | Rust | TBD |
+| **CyberChefJS** | Web/Node port; modular builds, worker pipelines, offline bundles. | JS / TS | TBD |
+| **CyberChefJAVA** | Java/JVM library suitable for Android/server apps. | Java | TBD |
+| **CyberChefR** | R bindings focused on data-cleaning pipelines. | R | TBD |
+| **CyberChefPERL** | Perl implementation for legacy pipelines and rapid text processing. | Perl | TBD |
+| **CyberChefRUBY** | Ruby gem with selected ops for scripting/Rails utilities. | Ruby | TBD |
+| **CyberChefLUA** | Lua port for embedded interpreters and Nginx/OpenResty scripting. | Lua | TBD |
+| **CyberChefHTML** | Static HTML bundles for totally offline workflows. | HTML | TBD |
+| **CyberChefCSS** | CSS themes/skins and layout kits for CyberChefKit frontends. | CSS | TBD |
+| **CyberChefBASH** | Bash wrappers around compiled ops for headless/airgapped hosts. | Bash | TBD |
+| **Dab Timer** | Precision quartz-cycle timer for concentrate vaporization; cooldown profiles, LED cues, thermal presets. | Python / MCU | TBD |
+| **Delta Dharma Theory Lab** | Computational inquiry into contemplative timing, breath, attention—protocols and instruments. | Python | TBD |
+| **Dhama** | Meditation/mindfulness app blending soundscapes, mantras, visual synchrony. | Python / PyQt5 | TBD |
+| **Discord Downgrader** | Shrink audio under 10 MB for Discord via iterative FFmpeg steps. | Python / FFmpeg | TBD |
+| **Expanded Diceware Volumes** | Themed/locale-aware wordlist volumes and methods for stronger Diceware. | Text / Python tools | TBD |
+| **FreedomGretzkyCEX** | Centralized-exchange research clone environment (CA) (internal). | Python / Web | TBD |
+| **FreedomGretzkyDEX** | Decentralized-exchange research clone environment (CA) (internal). | Python / Web | TBD |
+| **FreedomKobraCEX** | Centralized-exchange research clone environment (US) (internal). | Python / Web | TBD |
+| **FreedomKobraDEX** | Decentralized-exchange research clone environment (US) (internal). | Python / Web | TBD |
+| **FullNode-Scraper** | Scan/geolocate public Bitcoin nodes; 6-hour snapshots; Tor/clearnet split; JSON outputs. | Bash / Python | TBD |
+| **GardenHarvester** | Radio stream ripper; split continuous audio into MP3 tracks on metadata changes. | Python / FFmpeg | TBD |
+| **Geisha's Blackbook** | Private cataloging app for vetted studio records, releases, credits, assets. | Python / PyQt5 | TBD |
+| **GeoAdd** | Geo-addressing with increasing precision, reversible shortcodes, OSM overlays. | Python | TBD |
+| **GP: (GPT PDA)** | SFW & NSFW assistant variants across text/image/GIF/video/audio/TTS/STT. | Python / Web | TBD |
+| **GP-AI** | SFW suite/platform of GP tools, datasets, models. | Python | TBD |
+| **GP-Gallery-AI** | SFW gallery platform for GP assistants; user-generated feeds. | Python / Web | TBD |
+| **CyberGeisha-AI (Adult-NSFW)** | NSFW AI PDA across text, image, GIF, video, audio, TTS & STT. | Python / Web | TBD |
+| **GeishaGallery-AI (Adult-NSFW)** | NSFW AI generated-content galleries by vetted users. | Python / Web | TBD |
+| **GridHub** | Grid of live web thumbnails; zoom, fullscreen, dashboard presets. | Python / PyQt5 | TBD |
+| **Hasher** | Recursive file lister/hasher with logging; forensic-friendly exports. | Python | TBD |
+| **HashPig** | Attribute BTC mining hashrate by nation via public node IPs; two-part CLI. | Bash / Python | TBD |
+| **I-Ching** | BTC price loss over time—missed-opportunity calculator for purchasing-power drift. | Python | TBD |
+| **ImaGhee** | Image converter/rescaler GUI with batch presets, EXIF handling, lossless modes. | Python / PyQt5 | TBD |
+| **ISAN** | Decentralized P2P audio streaming/relay; resilient, signed, self-hostable. | Python / Flask / P2P | TBD |
+| **ISRN** | Decentralized P2P radio streaming/relay; 24/7 internet radio with metadata-synced playlists. | Python / Flask / P2P | TBD |
+| **ISVN** | Decentralized P2P video streaming/relay; live channels, playlists, scheduling. | Python / Flask / P2P | TBD |
+| **ISTV** | Decentralized P2P TV broadcasting; full-time internet TV via M3U playlists. | Python / Flask / P2P | TBD |
+| **Kermit's Trident** | Training/discipline system for cyber tradecraft; drills, RT/BT sims, assessments, cert paths. | Python / Docs | TBD |
+| **KeyKey** | Generate random seeds → SHA3-256 → Base64 → Base58 (RIPEMD-160) via CyberChef; save derived keys. | Python | TBD |
+| **Lexiphor** | PyQt5 code formatter for C/C++/JS/Python/HTML/CSS/JSON/Go/Perl/Lua/R/Ruby/Rust/Java. | Python / PyQt5 | TBD |
+| **Lunar Clock** | High-precision lunar phase/age clock; eclipses, standstills, nodal cycles. | Python / PyQt5 | TBD |
+| **Magneta** | Secure data sanitization: ATA/NVMe secure erase + crypto overwrites; verifiable reports. | Python / Bash | TBD |
+| **MalIPLib** | Malicious IP intel library & enrichment CLI; ASN/geo/whois tagging and scoring. | Python | TBD |
+| **MantraBox** | TTS mantra synth + looper with tempo control, layering, session exports. | Python | TBD |
+| **MarVIS** | Marine video identification (vision + audio); robust to low-light/turbidity. | Python / TensorFlow | TBD |
+| **MarVIS-RNGvG** | Randomized next-gen video generator for marine datasets; augmentation & synthetic clips. | Python | TBD |
+| **memeantix** | Campaign-capable meme engine: templates, A/B variants, scheduling, telemetry. | Python / Web | TBD |
+| **memeantix — CWG** | “Chimps with Guns” campaign art packs, prompts, distribution tooling. | Python / Assets | TBD |
+| **memeantix — PEG** | “Platypus Egg Gourmettes” visual themes and narrative kits. | Python / Assets | TBD |
+| **memeantix — FSO** | FSO campaign assets and automation presets. | Python / Assets | TBD |
+| **memeantix — SDO** | SDO scenario pack with controlled release scheduling. | Python / Assets | TBD |
+| **MempoolSpecs** | Variant of mempool.space “goggles”—fee tiers, tx age, propagation visualizations. | JS / WebGL | TBD |
+| **MetaTagDB** | Open metadata framework for auto-tagging, categorizing, fingerprinting, analyzing video. | Python / SQL / JSON | 0.3.0-alpha |
+| **Mnemonic Generator** | Generate 12/16/24/32-word phrases or 1–8 word passphrases; entropy checks; printable cards. | Python | TBD |
+| **mu3u** | M3U playlist builder/editor/viewer with tags, validation, stream testing. | Python | TBD |
+| **NaturaVA** | Nature video archiver—ingest, de-dup, tag, search large collections. | Python | TBD |
+| **OTTO** | Operator Tools & Task Orchestrator—script runner, scheduling, ops dashboards. | Python | TBD |
+| **Parallel Explorer** | AI-assisted file forensics/search; parallel scans with schema-aware queries. | Python | TBD |
+| **PortraitGen** | Promptable portrait generation with style-locks and provenance tags. | Python | TBD |
+| **PRONER** | Private research organizer—notes, links, citations, exportable reading lists. | Python / PyQt5 | TBD |
+| **PRONER-OS** | Hardened desktop environment profile for research ops; sandboxed tooling. | Linux profiles | TBD |
+| **ProtoTag** | Prototype video tagger to design MetaTagDB schemas, rules, UX. | Python / PyQt5 | TBD |
+| **Pay-to-Toll Protocol (PTTP)** | Bitcoin-native tolling protocol primitives for metered/time-bound access. | Python | TBD |
+| **PyOS** | Open-source OS in Python targeting app-install layers on major platforms. | Python | TBD |
+| **RGBRNG** | Color-based RNG/palette explorer using live pixel differentials or gradients. | Python / PyQt5 | TBD |
+| **Safai Karta** | Video filename filtering, cleaning, normalization, sanitization. | Python | TBD |
+| **SD-GUI** | Stable Diffusion GUI—model management, queueing, presets, gallery exports. | Python / PyQt5 | TBD |
+| **Shairi Badalna** | Rules-based video renamer/sorter for library hygiene; prepares for metatagging. | Python | TBD |
+| **Shaka-Kahn** | CUDA-accelerated keysearch/bruteforce research suite with modular kernels (internal). | C++ / CUDA / Python | TBD |
+| **Simonizer** | Voice FX transformer—live/recorded pipelines tuned to Simon-like formants. | Python | TBD |
+| **SOIVA** | Schmidt Ocean Institute Video Archiver—bulk ingest, cut-point detection, tagging. | Python | TBD |
+| **Speciedex** | Species taxonomy engine with AI classification & BTC/LN incentives; excludes humans. | Python / Flask | TBD |
+| **SpeciedexCore** | Full/light-node backend for Speciedex; inference kernel & data services. | Python | TBD |
+| **SpeciedexExplorer** | Real-time chain explorer for taxonomy, traits, habitats, lineage, extinction logs. | JS / Python | TBD |
+| **SpeciedexNet** | Federated P2P knowledge network; signed/versioned contributions; encrypted field comms. | Python / P2P | TBD |
+| **StegoMicrodot** | High-density microdot/halftone steganography toolkit with printer calibration. | Python | TBD |
+| **Stephenizer** | Voice FX transformer—textual prosody + formant filters for electrolarynx synthesis. | Python | TBD |
+| **STOA** | Savings Timelock-Out Accounts—policy templates, scripts, audit views. | Python | TBD |
+| **SubCircus** | EDM DJ live-streaming platform with scheduling, chat, VOD clipping, BTC microtransactions. | Python / Web / FFmpeg | TBD |
+| **SynthLavaRNG** | Lavarand-inspired offline entropy harvester (SHA3-256 + HMAC-DRBG); optional BitRNG blend. | Python / OpenCV | TBD |
+| **TerVIS** | Terrestrial Video Identification: TensorFlow vision+audio; species recognition & pattern detection. | Python / TensorFlow | TBD |
+| **TerVIS-RNGvG** | Randomized next-gen video generator for terrestrial datasets; augmentation pipelines. | Python | TBD |
+| **T4NP (The 4 Noble Pillars)** | Jurisdiction-encoded source-protection for PRC/RUS/DPRK/IRN; thwarts exfiltration/automated reuse. | Python / Build tools | TBD |
+| **RedPanda** | T4NP module (PRC): native-illegal index schemes to resist parsing/reuse in China. | Python | TBD |
+| **AmurTiger** | T4NP module (Russia): protection tuned to Russian legal/linguistic constraints. | Python | TBD |
+| **ManchurianTiger** | T4NP module (DPRK): native-illegal indexing & codepath obfuscation rules. | Python | TBD |
+| **PersianLeopard** | T4NP module (Iran): encoding/lexical fences & build-chain tripwires. | Python | TBD |
+| **Termux ZZX Suite** | Termux-oriented suite of ZZX tools, wrappers, Android deploy scripts. | Bash / Python | TBD |
+| **URLScraper (Firefox Add-on)** | Backup all open tabs/URLs to TXT/CSV/JSON/SQL; filters, de-dup, tagging. | JS / WebExtension | TBD |
+| **VideoSort** | Modular video filename sanitizer/organizer/formatter for large archives. | Python | TBD |
+| **VidGhee** | Video→GIF + image/meme extraction GUI; trimming, thumbnails, batch modes. | Python / PyQt5 / FFmpeg | TBD |
+| **Vikram** | Local file exploration, search, viewing with VR controls & interfaces. | Python / PyQt5 | TBD |
+| **Vishal** | Tranquility/relaxation GUI via audiovisual sessions. | Python / PyQt5 | TBD |
+| **Vishnu** | Audio visualizations designed to pair with VLC visualizers. | Python / PyQt5 | TBD |
+| **VLC AlarmClock** | Schedule VLC to open playlists at predefined times with optional fade-in. | Python | TBD |
+| **VLC Ticker** | Display currently-playing media tags/info from VLC via PyQt5 GUI. | Python / PyQt5 | TBD |
+| **Voise** | Real-time voice changer/vocoder with STT↔TTS routing, FX chains, HQ exports. | Python / PyQt5 | TBD |
+| **WikiSpecies-Core** | Core schemas/loaders for offline species KB (WikiSpecies ↔ Speciedex sync). | Python | TBD |
+| **WireFeed** | RSS news/update feed GUI with dedupe, keyword filters, overlay modes. | Python / PyQt5 | TBD |
+| **Woise** | White-noise generator & soundscape lab with filters, LFOs, MIDI control, preset packs. | Python / PyQt5 | 0.1.0-alpha |
+| **XConStats** | Monitor Xbox controller battery/charge/status with time-remaining estimates. | Python / PyQt5 | TBD |
+| **YTRP** | yt-dlp/ffmpeg/mutagen suite: MP3 320 kbps, best-quality video, playlists/channels, cookies, archive, logging. | Python / FFmpeg | TBD |
+| **ZIRA** | Zero-trust Intel Recon AI Agent—adaptive, multi-domain assistant (internal). | Python / Flask | 0.3.0-alpha |
+| **ZZX 0GP** | Variant of GPG/PGP using Base32 & Base58 encodings; profiles and batch ops. | Python / GnuPG | TBD |
+| **ZZX BBC** | LoRa mesh communicator (E2EE) in BlackBerry-like form: text/email/A/V/file transfer over Wi-Fi/Mesh/LoRa/GSM/5G. | Python / Embedded | TBD |
+| **ZZX-Core** | Server GUI Host/Controller for portable backend stacks and services orchestration. | Python / PyQt5 | TBD |
+| **ZZX-DES** | Directory Explorer System—hierarchical browser with previews, tagging, bulk ops. | Python / PyQt5 | TBD |
+| **ZZX NoBitEx CEX** | Centralized-exchange research clone for Bitcoin-only transactions (internal). | Python / Web | TBD |
+| **ZZX NoBitEx DEX** | Decentralized-exchange research clone for Bitcoin-only transactions (internal). | Python / Web | TBD |
+| **ZZXMSP** | Open, high-entropy mnemonic standard (BIP39 alternative); alphabetical index. | Spec / Python tools | TBD |
+| **ZZX-SBS** | Site Builder System—generate unified project/portfolio/docs/downloads/papers pages from one manifest. | Python | TBD |
+| **VLC_BOX** | Stand-alone open-source hardware media player. | C++ / Python / Raspberry Pi | 0.1.0-alpha |
 
 Each repository under **ZZX-Labs R&D** is a research vector in pursuit of verifiable, Bitcoin-aligned autonomy.
 
