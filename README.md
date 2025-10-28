@@ -24,7 +24,10 @@
 
 <div align="center">
 
+<!-- Languages -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micropython/micropython-original.svg" alt="MicroPython"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cython/cython-original.svg" alt="Cython"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/>
@@ -34,16 +37,56 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx"/>
+
+<!-- Frameworks / Libraries -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="SciPy"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stablediffusion/stablediffusion-original.svg" alt="Stable Diffusion"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/diffusers/diffusers-original.svg" alt="Diffusers"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/transformers/transformers-original.svg" alt="Transformers"/>
+
+<!-- Databases / Web -->
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+
+<!-- Operating Systems -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="Kali Linux"/>
+
+<!-- MCUs / SBCs / Hardware -->
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Lime_Micro_Systems_logo.svg" alt="Lime Microsystems"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Hak5_logo.svg" alt="Hak5"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/O.MG_logo.svg" alt="O.MG"/>
+<img width="45" src="https://greatscottgadgets.com/static/img/gsg_logo.png" alt="Great Scott Gadgets"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Flipper_Zero_logo.svg" alt="Flipper Devices"/>
+
+<!-- Security / Cryptography -->
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lightning_Network_logo.svg" alt="Lightning Network (LND)"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GnuPG_logo.svg" alt="GPG"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/CyberChef_Logo.svg" alt="CyberChef"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="nmap"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark"/>
+
+<!-- Knowledge Commons -->
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Creative_Commons.svg" alt="Creative Commons"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Internet_Archive_logo_and_wordmark.svg" alt="Internet Archive"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Project_Gutenberg_logo.svg" alt="Project Gutenberg"/>
 
 </div>
 
