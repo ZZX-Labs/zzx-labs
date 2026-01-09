@@ -46,8 +46,8 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="SciPy"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face"/>
+<img width="45" src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" alt="SciPy"/>
+<img width="45" src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516030712" alt="Hugging Face"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stablediffusion/stablediffusion-original.svg" alt="Stable Diffusion"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/diffusers/diffusers-original.svg" alt="Diffusers"/>
