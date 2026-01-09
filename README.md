@@ -62,14 +62,14 @@
 
 <!-- LLM/NLP AI/ML -->
 <img width="45" src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" alt="OpenAI"/>
-<img width="45" src="_" alt="ChatGPT"/>
-<img width="45" src="_" alt="HuggingChat"/>
+<img width="45" src="https://images.seeklogo.com/logo-png/50/2/chatgpt-logo-png_seeklogo-503286.png" alt="ChatGPT"/>
+<!-- <img width="45" src="_" alt="HuggingChat"/> -->
 <br>
 
 <!-- Databases / Web -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx"/>
-<img width="45" src="_" alt="Flask"/>
+<img width="45" src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo.png" alt="Flask"/>
 <img width="45" src="_" alt="Gunicorn"/>
 <img width="45" src="_" alt="SFTP"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
