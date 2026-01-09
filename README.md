@@ -37,10 +37,12 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
+<br>
 
 <!-- Frameworks / Libraries -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
@@ -52,18 +54,21 @@
 <img width="45" src="https://cdn.brandfetch.io/idEOT_B4ZC/w/120/h/115/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1763657042196" alt="Stable Diffusion"/>
 <img width="45" src="https://raw.githubusercontent.com/huggingface/diffusers/main/docs/source/en/imgs/diffusers_library.jpg" alt="Diffusers"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/transformers/transformers-original.svg" alt="Transformers"/>
+<br>
 
 <!-- Databases / Web -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+<br>
 
 <!-- Operating Systems -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"/>
-<img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/w/276/h/276/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1762260799157" alt="Kali Linux"/>
+<img width="45" src="https://cdn.brandfetch.io/idhVb0hxyJ/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1764607437821" alt="Kali Linux"/>
+<br>
 
 <!-- MCUs / SBCs / Hardware -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
@@ -73,6 +78,7 @@
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/O.MG_logo.svg" alt="O.MG"/>
 <img width="45" src="https://greatscottgadgets.com/static/img/gsg_logo.png" alt="Great Scott Gadgets"/>
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Flipper_Zero_logo.svg" alt="Flipper Devices"/>
+<br>
 
 <!-- Security / Cryptography -->
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin"/>
@@ -81,12 +87,14 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="CyberChef"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="nmap"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark"/>
+<br>
 
 <!-- Knowledge Commons -->
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia"/>
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Creative_Commons.svg" alt="Creative Commons"/>
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Internet_Archive_logo_and_wordmark.svg" alt="Internet Archive"/>
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Project_Gutenberg_logo.svg" alt="Project Gutenberg"/>
+<br>
 
 <!-- Special Thanks to SomaFM -->
 <img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1762260798973" alt="SomaFM Radio"/>
