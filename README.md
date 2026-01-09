@@ -63,7 +63,7 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"/>
-<img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1762260798973" alt="Kali Linux"/>
+<img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/w/276/h/276/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1762260799157" alt="Kali Linux"/>
 
 <!-- MCUs / SBCs / Hardware -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
@@ -87,6 +87,9 @@
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Creative_Commons.svg" alt="Creative Commons"/>
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Internet_Archive_logo_and_wordmark.svg" alt="Internet Archive"/>
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Project_Gutenberg_logo.svg" alt="Project Gutenberg"/>
+
+<!-- Special Thanks to SomaFM -->
+<img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1762260798973" alt="SomaFM Radio"/>
 
 </div>
 
