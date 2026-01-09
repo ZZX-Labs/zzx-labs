@@ -26,8 +26,8 @@
 
 <!-- Languages -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="MicroPython"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Cython_logo.svg" alt="Cython"/>
+<img width="45" src="https://cdn.brandfetch.io/idhqodiKbM/w/300/h/300/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766261306328" alt="MicroPython"/>
+<img width="45" src="https://cdn.brandfetch.io/idbplh6sMV/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1719788795283" alt="Cython"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/>
@@ -48,9 +48,9 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
 <img width="45" src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" alt="SciPy"/>
 <img width="45" src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516030712" alt="Hugging Face"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stablediffusion/stablediffusion-original.svg" alt="Stable Diffusion"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/diffusers/diffusers-original.svg" alt="Diffusers"/>
+<img width="45" src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" alt="OpenAI"/>
+<img width="45" src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" alt="Stable Diffusion"/>
+<img width="45" src="https://raw.githubusercontent.com/huggingface/diffusers/main/docs/source/en/imgs/diffusers_library.jpg" alt="Diffusers"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/transformers/transformers-original.svg" alt="Transformers"/>
 
 <!-- Databases / Web -->
@@ -63,7 +63,7 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="Kali Linux"/>
+<img width="45" src="https://cdn.brandfetch.io/id2UDPob7G/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1741663805615" alt="Kali Linux"/>
 
 <!-- MCUs / SBCs / Hardware -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
