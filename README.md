@@ -56,7 +56,7 @@
 <img width="45" src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" alt="OpenAI"/>
 <img width="45" src="https://cdn.brandfetch.io/idEOT_B4ZC/w/120/h/115/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1763657042196" alt="Stable Diffusion"/>
 <img width="45" src="https://raw.githubusercontent.com/huggingface/diffusers/main/docs/source/en/imgs/diffusers_library.jpg" alt="Diffusers"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/transformers/transformers-original.svg" alt="Transformers"/>
+<img width="45" src="https://camo.githubusercontent.com/4d76569b4d17ab35fbf2de42aa02b56a65ad0549812be2c96875dcde39824ece/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6461726b2e737667" alt="Transformers"/>
 <br>
 
 <!-- Databases / Web -->
@@ -76,20 +76,31 @@
 <!-- MCUs / SBCs / Hardware -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Lime_Micro_Systems_logo.svg" alt="Lime Microsystems"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Hak5_logo.svg" alt="Hak5"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/O.MG_logo.svg" alt="O.MG"/>
-<img width="45" src="https://greatscottgadgets.com/static/img/gsg_logo.png" alt="Great Scott Gadgets"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Flipper_Zero_logo.svg" alt="Flipper Devices"/>
+<br>
+
+<!-- Gadgets -->
+<img width="45" src="https://cdn.brandfetch.io/idpvyfD5EA/w/240/h/240/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Lime Microsystems"/>
+<img width="45" src="https://cdn.brandfetch.io/idiN00qz6i/w/900/h/900/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Hak5"/>
+<img width="45" src="https://o.mg.lol/setup/OMGCable-pkg.jpg" alt="O.MG"/>
+<img width="45" src="https://cdn.shopify.com/s/files/1/0068/2142/collections/great-scott-gadgets_2048x.png?v=1589745342" alt="Great Scott Gadgets"/>
+<img width="45" src="https://cdn.brandfetch.io/idxCkYUK8x/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Flipper Devices"/>
+<br>
+
+<!-- Bitcoin -->
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin"/>
+<img width="45" src="https://lightning-network-daemon.github.io/lnd/logo.png" alt="Lightning Network (LND)"/>
 <br>
 
 <!-- Security / Cryptography -->
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lightning_Network_logo.svg" alt="Lightning Network (LND)"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GnuPG_logo.svg" alt="GPG"/>
+<img width="45" src="https://cdn.brandfetch.io/idj8Owq_Nq/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="GPG"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="CyberChef"/>
+<br>
+
+<!-- Network Tools -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="nmap"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark"/>
+<img width="45" src="_" alt="PuTTY"/>
+<img width="45" src="_" alt="snort"/>
 <br>
 
 <!-- Knowledge Commons -->
@@ -99,8 +110,23 @@
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Project_Gutenberg_logo.svg" alt="Project Gutenberg"/>
 <br>
 
+<!-- Audio -->
+<img width="45" src="_" alt="Ableton"/>
+<img width="45" src="_" alt="Audacity"/>
+<img width="45" src="_" alt="VST/VSTi Plugins"/>
+<img width="45" src="_" alt="Max4Live"/>
+<img width="45" src="_" alt="u-He"/>
+<img width="45" src="_" alt="Native Instruments"/>
+<img width="45" src="_" alt="SugarBytes"/>
+<img width="45" src="_" alt="Rob Papen"/>
+<img width="45" src="_" alt="iZotope"/>
+<img width="45" src="_" alt="Propellerhead Reason"/>
+<br>
+
 <!-- Special Thanks to SomaFM -->
 <img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1762260798973" alt="SomaFM Radio"/>
+<img width="45" src="_" alt="DubstepFM Radio"/>
+<img width="45" src="_" alt="Dr.Dick's Dub Shack Radio"/>
 
 </div>
 
