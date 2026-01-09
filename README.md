@@ -52,6 +52,7 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
 <img width="45" src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" alt="SciPy"/>
+<br>
 
 <!-- Generative AI/ML -->
 <img width="45" src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516030712" alt="Hugging Face"/>
