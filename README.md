@@ -69,9 +69,9 @@
 <!-- Databases / Web -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx"/>
-<img width="45" src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo.png" alt="Flask"/>
-<img width="45" src="_" alt="Gunicorn"/>
-<img width="45" src="_" alt="SFTP"/>
+<img width="45" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask"/>
+<img width="45" src="https://docs.gunicorn.org/en/stable/_images/gunicorn.png" alt="Gunicorn"/>
+<!-- <img width="45" src="" alt="SFTP"/> -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 <br>
@@ -107,22 +107,23 @@
 <br>
 
 <!-- Network Tools -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="nmap"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark"/>
-<img width="45" src="_" alt="PuTTY"/>
-<img width="45" src="_" alt="snort"/>
-<img width="45" src="_" alt="shodan"/>
+<img width="45" src="https://cdn.brandfetch.io/idKPgS4O0g/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="nmap"/>
+<img width="45" src="https://cdn.brandfetch.io/idtNG2kbRU/w/512/h/512/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Wireshark"/>
+<img width="45" src="https://cdn.brandfetch.io/id90kxbzla/w/1200/h/1200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="PuTTY"/>
+<img width="45" src="https://cdn.brandfetch.io/idvXNO6yQw/w/174/h/95/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="snort"/>
+<img width="45" src="https://cdn.brandfetch.io/idDAkfGEd7/w/192/h/57/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="shodan"/>
+<img width="45" src="https://cdn.brandfetch.io/idFlREP4Jj/w/234/h/55/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Metasploit"/>
 <br>
 
 <!-- Knowledge Commons -->
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Creative_Commons.svg" alt="Creative Commons"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Internet_Archive_logo_and_wordmark.svg" alt="Internet Archive"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Project_Gutenberg_logo.svg" alt="Project Gutenberg"/>
+<img width="45" src="https://cdn.brandfetch.io/idVMOCKk4e/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Creative Commons"/>
+<img width="45" src="https://archive.org/download/InternetArchiveLogo_201805/internet%20archive%20logo.jpg" alt="Internet Archive"/>
+<img width="45" src="https://www.gutenberg.org/gutenberg/pg-logo-129x80.png" alt="Project Gutenberg"/>
 <br>
 
 <!-- Audio -->
-<img width="45" src="_" alt="Ableton"/>
+<img width="45" src="https://cdn.brandfetch.io/iduNERcj3z/w/200/h/200/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Ableton"/>
 <img width="45" src="_" alt="Audacity"/>
 <img width="45" src="_" alt="VST/VSTi Plugins"/>
 <img width="45" src="_" alt="Max4Live"/>
