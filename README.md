@@ -493,7 +493,7 @@ See [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-**ZZX-Labs R&D** © 2025 All Rights Reserved  
+**ZZX-Labs R&D** © 2026 All Rights Reserved  
 Coded in Python · Powered by Bitcoin
 
 </div>
