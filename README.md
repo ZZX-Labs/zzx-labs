@@ -137,8 +137,8 @@
 
 <!-- Special Thanks to SomaFM -->
 <img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1762260798973" alt="SomaFM Radio"/>
-<img width="45" src="_" alt="DubstepFM Radio"/>
-<img width="45" src="_" alt="Dr.Dick's Dub Shack Radio"/>
+<img width="45" src="https://www.radio.net/300/dubstepfm.png?version=6a42783047470bdabd76e78c987479db" alt="DubstepFM Radio"/>
+<img width="45" src="https://images.radio.co/station_logos/s0635c8b0d.20170812044150.jpg" alt="Dr.Dick's Dub Shack Radio"/>
 <img width="45" src="https://cdn.brandfetch.io/idyHwLqLdZ/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SubFM Radio"/>
 
 </div>
