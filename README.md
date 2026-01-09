@@ -26,8 +26,8 @@
 
 <!-- Languages -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micropython/micropython-original.svg" alt="MicroPython"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cython/cython-original.svg" alt="Cython"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="MicroPython"/>
+<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Cython_logo.svg" alt="Cython"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/>
@@ -78,7 +78,7 @@
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin"/>
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lightning_Network_logo.svg" alt="Lightning Network (LND)"/>
 <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/GnuPG_logo.svg" alt="GPG"/>
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/CyberChef_Logo.svg" alt="CyberChef"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="CyberChef"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="nmap"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark"/>
 
