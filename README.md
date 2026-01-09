@@ -124,21 +124,22 @@
 
 <!-- Audio -->
 <img width="45" src="https://cdn.brandfetch.io/iduNERcj3z/w/200/h/200/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Ableton"/>
-<img width="45" src="_" alt="Audacity"/>
-<img width="45" src="_" alt="VST/VSTi Plugins"/>
-<img width="45" src="_" alt="Max4Live"/>
-<img width="45" src="_" alt="u-He"/>
-<img width="45" src="_" alt="Native Instruments"/>
-<img width="45" src="_" alt="SugarBytes"/>
-<img width="45" src="_" alt="Rob Papen"/>
-<img width="45" src="_" alt="iZotope"/>
-<img width="45" src="_" alt="Propellerhead Reason"/>
+<img width="45" src="https://cdn.brandfetch.io/idUNHZMOVm/w/500/h/500/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Audacity"/>
+<img width="45" src="https://cdn.brandfetch.io/iduS1aCQB_/w/282/h/282/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="VST/VSTi Plugins"/>
+<img width="45" src="https://cdn.brandfetch.io/idpnAMrJxV/w/2048/h/2048/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="u-He"/>
+<img width="45" src="https://cdn.brandfetch.io/idD4dkap3n/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Native Instruments"/>
+<img width="45" src="https://findlogovector.com/wp-content/uploads/2018/09/sugar-bytes-logo-vector.png" alt="SugarBytes"/>
+<img width="45" src="https://cdn.brandfetch.io/id6DssgDeN/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Rob Papen"/>
+<img width="45" src="https://cdn.brandfetch.io/idojY3sgNb/w/243/h/243/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="iZotope"/>
+<img width="45" src="https://cdn.brandfetch.io/id7fczGABf/w/276/h/194/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Xfer Records"/>
+<img width="45" src="https://2.bp.blogspot.com/_fMS8prNllHM/TCQGZary8TI/AAAAAAAAACI/SbTo8wJtjT8/s320/reason_logo.jpg" alt="Propellerhead Reason"/>
 <br>
 
 <!-- Special Thanks to SomaFM -->
 <img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1762260798973" alt="SomaFM Radio"/>
 <img width="45" src="_" alt="DubstepFM Radio"/>
 <img width="45" src="_" alt="Dr.Dick's Dub Shack Radio"/>
+<img width="45" src="https://cdn.brandfetch.io/idyHwLqLdZ/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SubFM Radio"/>
 
 </div>
 
