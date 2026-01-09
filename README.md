@@ -52,16 +52,26 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
 <img width="45" src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" alt="SciPy"/>
+
+<!-- Generative AI/ML -->
 <img width="45" src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516030712" alt="Hugging Face"/>
-<img width="45" src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" alt="OpenAI"/>
 <img width="45" src="https://cdn.brandfetch.io/idEOT_B4ZC/w/120/h/115/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1763657042196" alt="Stable Diffusion"/>
 <img width="45" src="https://raw.githubusercontent.com/huggingface/diffusers/main/docs/source/en/imgs/diffusers_library.jpg" alt="Diffusers"/>
 <img width="45" src="https://camo.githubusercontent.com/4d76569b4d17ab35fbf2de42aa02b56a65ad0549812be2c96875dcde39824ece/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6461726b2e737667" alt="Transformers"/>
 <br>
 
+<!-- LLM/NLP AI/ML -->
+<img width="45" src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" alt="OpenAI"/>
+<img width="45" src="_" alt="ChatGPT"/>
+<img width="45" src="_" alt="HuggingChat"/>
+<br>
+
 <!-- Databases / Web -->
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx"/>
+<img width="45" src="_" alt="Flask"/>
+<img width="45" src="_" alt="Gunicorn"/>
+<img width="45" src="_" alt="SFTP"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 <br>
@@ -101,6 +111,7 @@
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark"/>
 <img width="45" src="_" alt="PuTTY"/>
 <img width="45" src="_" alt="snort"/>
+<img width="45" src="_" alt="shodan"/>
 <br>
 
 <!-- Knowledge Commons -->
