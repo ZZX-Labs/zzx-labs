@@ -484,9 +484,13 @@ See [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-![ZZX-Labs R&D GitHub Stats](https://github-readme-stats-zzx-labs.vercel.app/api?username=ZZX-Labs&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=chartreuse-dark)
+![ZZX-Labs R&D GitHub Stats](_)
 
-![Top Languages](https://github-readme-stats-zzx-labs.vercel.app/api/top-langs/?username=ZZX-Labs&layout=compact&langs_count=8&theme=chartreuse-dark)
+![Top Languages](_)
+
+![ZZX-Labs R&D Projects](_)
+
+![Projects Hours](_)
 
 </div>
 
