@@ -484,13 +484,31 @@ See [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-![ZZX-Labs R&D GitHub Stats](_)
+<!-- Summary stats -->
+<img
+  src="https://raw.githubusercontent.com/ZZX-Labs/github-stats-public/main/assets/github-stats.svg"
+  alt="ZZX-Labs R&D GitHub Statistics"
+/>
 
-![Top Languages](_)
+<!-- Language distribution -->
+<img
+  src="https://raw.githubusercontent.com/ZZX-Labs/github-stats-public/main/assets/top-langs.svg"
+  alt="Top Programming Languages"
+/>
 
-![ZZX-Labs R&D Projects](_)
+<!-- Category / project domain distribution -->
+<img
+  src="https://raw.githubusercontent.com/ZZX-Labs/github-stats-public/main/assets/tag-counts.svg"
+  alt="Project Categories Distribution"
+/>
 
-![Projects Hours](_)
+<!-- OPTIONAL: hours-by-category (only if enabled publicly) -->
+<!--
+<img
+  src="https://raw.githubusercontent.com/ZZX-Labs/github-stats-public/main/assets/hours-by-category.svg"
+  alt="Estimated Hours by Category"
+/>
+-->
 
 </div>
 
