@@ -484,29 +484,37 @@ See [LICENSE](LICENSE) for details.
 
 <div align="center">
 
+<img src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/all/github-stats.svg" width="495" />
+
+  <img src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/all/top-langs.svg" width="495" />
+  
+  <img src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/all/tag-counts.svg" width="495" />
+
+  <img src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/all/hours-by-category.svg" width="495" />
+  
 <!-- Summary stats -->
 <img
   src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/github-stats.svg"
-  alt="ZZX-Labs R&D GitHub Statistics"
+  alt="ZZX-Labs R&D GitHub Statistics" width="495"
 />
 
 <!-- Language distribution -->
 <img
   src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/top-langs.svg"
-  alt="Top Programming Languages"
+  alt="Top Programming Languages" width="495"
 />
 
 <!-- Category / project domain distribution -->
 <img
   src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/tag-counts.svg"
-  alt="Project Categories Distribution"
+  alt="Project Categories Distribution" width="495"
 />
 
 <!-- OPTIONAL: hours-by-category (only if enabled publicly) -->
 <!--
 <img
   src="https://raw.githubusercontent.com/ZZX-Labs/zzx-github-stats-public/main/assets/hours-by-category.svg?v=1"
-  alt="Estimated Hours by Category"
+  alt="Estimated Hours by Category" width="495"
 />
 -->
 
