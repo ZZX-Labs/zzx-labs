@@ -486,19 +486,19 @@ See [LICENSE](LICENSE) for details.
 
 <!-- Summary stats -->
 <img
-  src="https://github.com/ZZX-Labs/zzx-github-stats-public/tree/main/assets/github-stats.svg"
+  src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/github-stats.svg"
   alt="ZZX-Labs R&D GitHub Statistics"
 />
 
 <!-- Language distribution -->
 <img
-  src="https://github.com/ZZX-Labs/zzx-github-stats-public/tree/main/assets/top-langs.svg"
+  src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/top-langs.svg"
   alt="Top Programming Languages"
 />
 
 <!-- Category / project domain distribution -->
 <img
-  src="https://github.com/ZZX-Labs/zzx-github-stats-public/tree/main/assets/tag-counts.svg"
+  src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/tag-counts.svg"
   alt="Project Categories Distribution"
 />
 
