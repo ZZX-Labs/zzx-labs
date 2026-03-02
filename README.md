@@ -145,25 +145,16 @@
 </div>
 
 <p align="center">
-**Core Focus:**
-  
-  · Bitcoin Engineering 
-  
-  · Cybersecurity 
-  
-  · AI & ML 
-  
-  · Embedded Systems 
-  
-  · Open-Source Intelligence 
-  
-  · Network Defense 
-  
-  · Cryptography 
-  
-  · Nginx Server Architecture 
-  
-  · Linux Systems
+Core Focus:
+· Bitcoin Engineering 
+· Cybersecurity 
+· AI & ML 
+· Embedded Systems 
+· Open-Source Intelligence 
+· Network Defense 
+· Cryptography 
+· Nginx Server Architecture 
+· Linux Systems
   
 </p>
 
