@@ -511,7 +511,7 @@ ZZX-Labs R&D approaches every system as both an engineering and philosophical en
 
 | Project              | Description                                                           | Language       | Status      |
 | -------------------- | --------------------------------------------------------------------- | -------------- | ----------- |
-| **BlackBook**        | Encrypted private contact and profile vault (privacy-focused).        | Python         | 0.1.0-alpha |
+| **huah**        | Huah is a lawful aggregation and analysis system that consolidates publicly available wanted notices, bulletins, and suspect data into a unified, searchable, and printable per-suspect intelligence view. *(Internal – Uses publicly available lawful data sources only.)* | Python / Bash        | 0.1.0-alpha |
 | **CDRC**             | Case Data Record Compiler for legal and investigative archiving.      | Python         | 0.1.0-alpha |
 | **CourtListener-AC** | Court data aggregation & enrichment pipeline.                         | Python         | 0.2.0-alpha |
 | **ArchiveTagger**    | Automated tagging, OCR, fingerprinting, and metadata indexing system. | Python         | 0.1.0-alpha |
