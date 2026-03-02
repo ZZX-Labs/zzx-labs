@@ -145,7 +145,7 @@
 </div>
 
 <p align="center">
-<b>Core Focus:</b> 
+**Core Focus:**
   
   · Bitcoin Engineering 
   
