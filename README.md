@@ -146,6 +146,7 @@
 
 <p align="center">
 <b>Core Focus:</b> 
+  
   · Bitcoin Engineering 
   · Cybersecurity 
   · AI & ML 
