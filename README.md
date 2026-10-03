@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="ZZX-Labs" width="280" height="280"/>
+  <img src="./logo.png" alt="ZZX-Labs R&D logo" title="ZZX-Labs R&D" width="280" height="280"/>
 
 # ZZX-Labs
 ### Private Technology Research & Development Laboratory
@@ -8,7 +8,7 @@
 **License:** MIT  
 **Author:** [0xdeadbeef]  
 **Organization:** ZZX-Labs R&D  
-**Languages:** Python 3.11 +  |  C |  C++ |  Go |  R |  Perl |  HTML |  CSS |  JavaScript |  PHP  
+**Languages:** Python 3.11+ | C | C++ | Go | Rust | Ruby | R | Perl | Lua | Java | Bash | JavaScript | HTML | CSS | PHP  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-brightgreen.svg)]()
@@ -24,126 +24,149 @@
 
 <div align="center">
 
+<!--
+Icon policy:
+  * Devicon via jsDelivr for widely supported development technologies.
+  * Shields.io badges for brands/tools without a stable Devicon asset.
+  * Avoid Brandfetch/session URLs, GitHub /blob/ image URLs, and vendor hotlinks.
+  * Every image has alt/title text so README content remains understandable if a CDN is unavailable.
+-->
+
 <!-- Languages -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-<img width="45" src="https://cdn.brandfetch.io/idhqodiKbM/w/300/h/300/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766261306328" alt="MicroPython"/>
-<img width="45" src="https://cdn.brandfetch.io/idbplh6sMV/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1719788795283" alt="Cython"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-<br>
+<strong>Languages</strong><br>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+<img height="28" src="https://img.shields.io/badge/MicroPython-181717?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython" title="MicroPython"/>
+<img height="28" src="https://img.shields.io/badge/Cython-181717?style=flat-square&logo=cython&logoColor=white" alt="Cython" title="Cython"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" title="Go"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" title="R"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-original.svg" alt="Perl" title="Perl"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" title="Rust"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" title="Lua"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"/>
+<br><br>
 
 <!-- Web -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
-<br>
+<strong>Web</strong><br>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP"/>
+<br><br>
 
 <!-- Frameworks / Libraries -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
-<img width="45" src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" alt="SciPy"/>
-<br>
+<strong>Frameworks / Libraries</strong><br>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" alt="SciPy" title="SciPy"/>
+<br><br>
 
-<!-- Generative AI/ML -->
-<img width="45" src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516030712" alt="Hugging Face"/>
-<img width="45" src="https://cdn.brandfetch.io/idEOT_B4ZC/w/120/h/115/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1763657042196" alt="Stable Diffusion"/>
-<img width="45" src="https://raw.githubusercontent.com/huggingface/diffusers/main/docs/source/en/imgs/diffusers_library.jpg" alt="Diffusers"/>
-<img width="45" src="https://camo.githubusercontent.com/4d76569b4d17ab35fbf2de42aa02b56a65ad0549812be2c96875dcde39824ece/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6461726b2e737667" alt="Transformers"/>
-<br>
+<!-- Generative AI / ML -->
+<strong>Generative AI / ML</strong><br>
+<img height="28" src="https://img.shields.io/badge/Hugging%20Face-181717?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" title="Hugging Face"/>
+<img height="28" src="https://img.shields.io/badge/Stable%20Diffusion-181717?style=flat-square&logo=stabilityai&logoColor=white" alt="Stable Diffusion" title="Stable Diffusion"/>
+<img height="28" src="https://img.shields.io/badge/Diffusers-181717?style=flat-square&logo=huggingface&logoColor=white" alt="Diffusers" title="Diffusers"/>
+<img height="28" src="https://img.shields.io/badge/Transformers-181717?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers" title="Transformers"/>
+<br><br>
 
-<!-- LLM/NLP AI/ML -->
-<img width="45" src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1749527480180" alt="OpenAI"/>
-<img width="45" src="https://images.seeklogo.com/logo-png/50/2/chatgpt-logo-png_seeklogo-503286.png" alt="ChatGPT"/>
-<!-- <img width="45" src="_" alt="HuggingChat"/> -->
-<br>
+<!-- LLM / NLP -->
+<strong>LLM / NLP</strong><br>
+<img height="28" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" title="OpenAI"/>
+<img height="28" src="https://img.shields.io/badge/ChatGPT-181717?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT"/>
+<br><br>
 
-<!-- Databases / Web -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx"/>
-<img width="45" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask"/>
-<img width="45" src="https://docs.gunicorn.org/en/stable/_images/gunicorn.png" alt="Gunicorn"/>
-<!-- <img width="45" src="" alt="SFTP"/> -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-<br>
+<!-- Databases / Web Services -->
+<strong>Databases / Web Services</strong><br>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" title="nginx"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" title="Flask"/>
+<img height="28" src="https://img.shields.io/badge/Gunicorn-181717?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn" title="Gunicorn"/>
+<img height="28" src="https://img.shields.io/badge/SFTP-181717?style=flat-square&logo=openssh&logoColor=white" alt="SFTP" title="SFTP"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+<br><br>
 
 <!-- Operating Systems -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"/>
-<img width="45" src="https://cdn.brandfetch.io/idhVb0hxyJ/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1764607437821" alt="Kali Linux"/>
-<br>
+<strong>Operating Systems</strong><br>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" title="Debian"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" title="Windows"/>
+<img height="28" src="https://img.shields.io/badge/Kali%20Linux-181717?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" title="Kali Linux"/>
+<br><br>
 
 <!-- MCUs / SBCs / Hardware -->
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"/>
-<br>
+<strong>MCUs / SBCs / Hardware</strong><br>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino"/>
+<img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi"/>
+<br><br>
 
-<!-- Gadgets -->
-<img width="45" src="https://cdn.brandfetch.io/idpvyfD5EA/w/240/h/240/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Lime Microsystems"/>
-<img width="45" src="https://cdn.brandfetch.io/idiN00qz6i/w/900/h/900/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Hak5"/>
-<img width="45" src="https://o.mg.lol/setup/OMGCable-pkg.jpg" alt="O.MG"/>
-<img width="45" src="https://cdn.shopify.com/s/files/1/0068/2142/collections/great-scott-gadgets_2048x.png?v=1589745342" alt="Great Scott Gadgets"/>
-<img width="45" src="https://cdn.brandfetch.io/idxCkYUK8x/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Flipper Devices"/>
-<br>
+<!-- Hardware / Security Gadgets -->
+<strong>Hardware / Security Gadgets</strong><br>
+<img height="28" src="https://img.shields.io/badge/Lime%20Microsystems-181717?style=flat-square" alt="Lime Microsystems" title="Lime Microsystems"/>
+<img height="28" src="https://img.shields.io/badge/Hak5-181717?style=flat-square" alt="Hak5" title="Hak5"/>
+<img height="28" src="https://img.shields.io/badge/O.MG-181717?style=flat-square" alt="O.MG" title="O.MG"/>
+<img height="28" src="https://img.shields.io/badge/Great%20Scott%20Gadgets-181717?style=flat-square" alt="Great Scott Gadgets" title="Great Scott Gadgets"/>
+<img height="28" src="https://img.shields.io/badge/Flipper%20Devices-181717?style=flat-square&logo=flipper&logoColor=white" alt="Flipper Devices" title="Flipper Devices"/>
+<br><br>
 
 <!-- Bitcoin -->
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin"/>
-<img width="45" src="https://lightning-network-daemon.github.io/lnd/logo.png" alt="Lightning Network (LND)"/>
-<br>
+<strong>Bitcoin</strong><br>
+<img height="28" src="https://img.shields.io/badge/Bitcoin-181717?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin" title="Bitcoin"/>
+<img height="28" src="https://img.shields.io/badge/Lightning%20%2F%20LND-181717?style=flat-square&logo=lightning&logoColor=white" alt="Lightning / LND" title="Lightning / LND"/>
+<br><br>
 
 <!-- Security / Cryptography -->
-<img width="45" src="https://cdn.brandfetch.io/idj8Owq_Nq/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="GPG"/>
-<img width="45" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cyberchef.svg" alt="CyberChef"/>
-<br>
+<strong>Security / Cryptography</strong><br>
+<img height="28" src="https://img.shields.io/badge/GnuPG%20%2F%20GPG-181717?style=flat-square&logo=gnupg&logoColor=white" alt="GnuPG / GPG" title="GnuPG / GPG"/>
+<img height="28" src="https://img.shields.io/badge/CyberChef-181717?style=flat-square" alt="CyberChef" title="CyberChef"/>
+<br><br>
 
-<!-- Network Tools -->
-<img width="45" src="https://cdn.brandfetch.io/idKPgS4O0g/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="nmap"/>
-<img width="45" src="https://cdn.brandfetch.io/idtNG2kbRU/w/512/h/512/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Wireshark"/>
-<img width="45" src="https://cdn.brandfetch.io/id90kxbzla/w/1200/h/1200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="PuTTY"/>
-<img width="45" src="https://cdn.brandfetch.io/idvXNO6yQw/w/174/h/95/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="snort"/>
-<img width="45" src="https://cdn.brandfetch.io/idDAkfGEd7/w/192/h/57/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="shodan"/>
-<img width="45" src="https://cdn.brandfetch.io/idFlREP4Jj/w/234/h/55/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Metasploit"/>
-<br>
+<!-- Network / Security Tools -->
+<strong>Network / Security Tools</strong><br>
+<img height="28" src="https://img.shields.io/badge/Nmap-181717?style=flat-square" alt="Nmap" title="Nmap"/>
+<img height="28" src="https://img.shields.io/badge/Wireshark-181717?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" title="Wireshark"/>
+<img height="28" src="https://img.shields.io/badge/PuTTY-181717?style=flat-square&logo=putty&logoColor=white" alt="PuTTY" title="PuTTY"/>
+<img height="28" src="https://img.shields.io/badge/Snort-181717?style=flat-square" alt="Snort" title="Snort"/>
+<img height="28" src="https://img.shields.io/badge/Shodan-181717?style=flat-square&logo=shodan&logoColor=white" alt="Shodan" title="Shodan"/>
+<img height="28" src="https://img.shields.io/badge/Metasploit-181717?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" title="Metasploit"/>
+<br><br>
 
 <!-- Knowledge Commons -->
-<img width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia"/>
-<img width="45" src="https://cdn.brandfetch.io/idVMOCKk4e/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Creative Commons"/>
-<img width="45" src="https://archive.org/download/InternetArchiveLogo_201805/internet%20archive%20logo.jpg" alt="Internet Archive"/>
-<img width="45" src="https://www.gutenberg.org/gutenberg/pg-logo-129x80.png" alt="Project Gutenberg"/>
+<strong>Knowledge Commons</strong><br>
+<img height="28" src="https://img.shields.io/badge/Wikipedia-181717?style=flat-square&logo=wikipedia&logoColor=white" alt="Wikipedia" title="Wikipedia"/>
+<img height="28" src="https://img.shields.io/badge/Creative%20Commons-181717?style=flat-square&logo=creativecommons&logoColor=white" alt="Creative Commons" title="Creative Commons"/>
+<img height="28" src="https://img.shields.io/badge/Internet%20Archive-181717?style=flat-square&logo=internetarchive&logoColor=white" alt="Internet Archive" title="Internet Archive"/>
+<img height="28" src="https://img.shields.io/badge/Project%20Gutenberg-181717?style=flat-square" alt="Project Gutenberg" title="Project Gutenberg"/>
+<br><br>
+
+<!-- Audio / DSP -->
+<strong>Audio / DSP</strong><br>
+<img height="28" src="https://img.shields.io/badge/Ableton%20Live-181717?style=flat-square&logo=abletonlive&logoColor=white" alt="Ableton Live" title="Ableton Live"/>
+<img height="28" src="https://img.shields.io/badge/Audacity-181717?style=flat-square&logo=audacity&logoColor=white" alt="Audacity" title="Audacity"/>
+<img height="28" src="https://img.shields.io/badge/VST%20%2F%20VSTi-181717?style=flat-square" alt="VST / VSTi" title="VST / VSTi"/>
+<img height="28" src="https://img.shields.io/badge/u-he-181717?style=flat-square" alt="u-he" title="u-he"/>
+<img height="28" src="https://img.shields.io/badge/Native%20Instruments-181717?style=flat-square" alt="Native Instruments" title="Native Instruments"/>
+<img height="28" src="https://img.shields.io/badge/Sugar%20Bytes-181717?style=flat-square" alt="Sugar Bytes" title="Sugar Bytes"/>
+<img height="28" src="https://img.shields.io/badge/Rob%20Papen-181717?style=flat-square" alt="Rob Papen" title="Rob Papen"/>
+<img height="28" src="https://img.shields.io/badge/iZotope-181717?style=flat-square" alt="iZotope" title="iZotope"/>
+<img height="28" src="https://img.shields.io/badge/Xfer%20Records-181717?style=flat-square" alt="Xfer Records" title="Xfer Records"/>
+<img height="28" src="https://img.shields.io/badge/Reason-181717?style=flat-square" alt="Reason" title="Reason"/>
+<br><br>
+
+<!-- Radio / Streaming -->
+<strong>Radio / Streaming</strong><br>
+<img height="28" src="https://img.shields.io/badge/SomaFM-181717?style=flat-square" alt="SomaFM" title="SomaFM"/>
+<img height="28" src="https://img.shields.io/badge/DubstepFM-181717?style=flat-square" alt="DubstepFM" title="DubstepFM"/>
+<img height="28" src="https://img.shields.io/badge/Dr.%20Dick%27s%20Dub%20Shack-181717?style=flat-square" alt="Dr. Dick's Dub Shack" title="Dr. Dick's Dub Shack"/>
+<img height="28" src="https://img.shields.io/badge/SubFM-181717?style=flat-square" alt="SubFM" title="SubFM"/>
+<br><br>
+
+</div>
 <br>
-
-<!-- Audio -->
-<img width="45" src="https://cdn.brandfetch.io/iduNERcj3z/w/200/h/200/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Ableton"/>
-<img width="45" src="https://cdn.brandfetch.io/idUNHZMOVm/w/500/h/500/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Audacity"/>
-<img width="45" src="https://cdn.brandfetch.io/iduS1aCQB_/w/282/h/282/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="VST/VSTi Plugins"/>
-<img width="45" src="https://cdn.brandfetch.io/idpnAMrJxV/w/2048/h/2048/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="u-He"/>
-<img width="45" src="https://cdn.brandfetch.io/idD4dkap3n/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Native Instruments"/>
-<img width="45" src="https://findlogovector.com/wp-content/uploads/2018/09/sugar-bytes-logo-vector.png" alt="SugarBytes"/>
-<img width="45" src="https://cdn.brandfetch.io/id6DssgDeN/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Rob Papen"/>
-<img width="45" src="https://cdn.brandfetch.io/idojY3sgNb/w/243/h/243/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="iZotope"/>
-<img width="45" src="https://cdn.brandfetch.io/id7fczGABf/w/276/h/194/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Xfer Records"/>
-<img width="45" src="https://2.bp.blogspot.com/_fMS8prNllHM/TCQGZary8TI/AAAAAAAAACI/SbTo8wJtjT8/s320/reason_logo.jpg" alt="Propellerhead Reason"/>
-<br>
-
-<!-- Special Thanks to SomaFM -->
-<img width="45" src="https://cdn.brandfetch.io/idXR4M9WQT/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1762260798973" alt="SomaFM Radio"/>
-<img width="45" src="https://www.radio.net/300/dubstepfm.png?version=6a42783047470bdabd76e78c987479db" alt="DubstepFM Radio"/>
-<img width="45" src="https://images.radio.co/station_logos/s0635c8b0d.20170812044150.jpg" alt="Dr.Dick's Dub Shack Radio"/>
-<img width="45" src="https://cdn.brandfetch.io/idyHwLqLdZ/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SubFM Radio"/>
-
-</div><br>
-
 
 <p align="center">
 Core Focus: <br>
@@ -614,39 +637,18 @@ See [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-<img src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/all/github-stats.svg" width="495" />
-
-  <img src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/all/top-langs.svg" width="495" />
-  
-  <img src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/all/tag-counts.svg" width="495" />
-
-  <img src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/all/hours-by-category.svg" width="495" />
-  
-<!-- Summary stats -->
-<img
-  src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/github-stats.svg"
-  alt="ZZX-Labs R&D GitHub Statistics" width="495"
-/>
-
-<!-- Language distribution -->
-<img
-  src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/top-langs.svg"
-  alt="Top Programming Languages" width="495"
-/>
-
-<!-- Category / project domain distribution -->
-<img
-  src="https://github.com/ZZX-Labs/zzx-github-stats-public/blob/main/assets/tag-counts.svg"
-  alt="Project Categories Distribution" width="495"
-/>
-
-<!-- OPTIONAL: hours-by-category (only if enabled publicly) -->
 <!--
-<img
-  src="https://raw.githubusercontent.com/ZZX-Labs/zzx-github-stats-public/main/assets/hours-by-category.svg?v=1"
-  alt="Estimated Hours by Category" width="495"
-/>
+Use raw.githubusercontent.com for repository-hosted SVGs.
+GitHub /blob/ URLs return an HTML document, not the image payload, and can render as broken images.
 -->
+
+<img src="https://raw.githubusercontent.com/ZZX-Labs/zzx-github-stats-public/main/assets/all/github-stats.svg" alt="ZZX-Labs R&D GitHub statistics" width="495"/>
+
+<img src="https://raw.githubusercontent.com/ZZX-Labs/zzx-github-stats-public/main/assets/all/top-langs.svg" alt="ZZX-Labs top programming languages" width="495"/>
+
+<img src="https://raw.githubusercontent.com/ZZX-Labs/zzx-github-stats-public/main/assets/all/tag-counts.svg" alt="ZZX-Labs project category distribution" width="495"/>
+
+<img src="https://raw.githubusercontent.com/ZZX-Labs/zzx-github-stats-public/main/assets/all/hours-by-category.svg" alt="ZZX-Labs estimated hours by category" width="495"/>
 
 </div>
 
